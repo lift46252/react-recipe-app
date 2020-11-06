@@ -2,7 +2,7 @@
   "name": "reactjs-recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anrus.github.io/alex-test/",
+  "homepage": "https://lift46252.github.io/react-recipe-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
